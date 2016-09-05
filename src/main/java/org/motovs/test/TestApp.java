@@ -1,7 +1,7 @@
 package org.motovs.test;
 
 /**
- * Created by igor on 9/5/16.
+ * Better docs!
  */
 public class TestApp {
     public static void main(String[] args) {
